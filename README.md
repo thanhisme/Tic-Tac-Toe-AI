@@ -1,6 +1,6 @@
 # 9x9 Tic-Tac-Toe with Heuristic Alpha-Beta Search
 
-Vietnameses version: [Here](./README.vi.md).
+Vietnamese version: [Here](./README.vi.md).
 
 ## Problem Description
 
