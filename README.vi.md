@@ -1,6 +1,6 @@
 # Cờ Caro 9x9 với Thuật Toán Alpha-Beta Tìm Kiếm Có Heuristic
 
-Vietnamese version: [Here](README.vi.md)
+Bản tiếng anh: [Tại đây](./README.md)
 
 ## Mô tả bài toán
 
